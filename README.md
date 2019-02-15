@@ -1,0 +1,2 @@
+# IPL-Data-Analysis
+The result of this analysis will surely help in understanding the stats of Teams and many plyers. Results will help to analyze the performance of the teams over the years. If the numbers are in down fall then efforts are required to increase the profits of the owners. If the team performance is high then other teams whose stats are low, can learn and use efforts to increase their performance.
