@@ -1,0 +1,29 @@
+Most number of matches won by a team...  A) In an year. B) Overall. C) In Finals. D) In Qualifiers 
+
+Most umpired... A) Umpire 1. B) Umpire 2.
+
+Venue that has hosted most number of matches...  A) In a Season. B) For IPL
+
+Most man of the match awards...  A) Won by the player. B) Attained by the team (player of the team).
+
+A) Top 10 wins by runs. 
+B) Top 10 wins by wickets.
+C) Toss won by the teams.
+And some analysis using toss W/L.
+
+Additional Objectives :
+1.	TOTAL RUNS SCORED BY THE TEAMS
+2.	TOTAL BALLS BOWLED BY THE TEAMS
+3.	TOP 10 RUN SCORERS
+4.	TOP 10 WICKET TAKERS
+5.	TOP 10 FIELDERS WITH MOST NUMBER OF DISMISSALS
+6.	TOP 10 BATSMEN STRIKERATE (S/R)
+7.	TOP 10 PLAYERS DISMISSED AT MOST
+8.	DISMISSED TYPE AND IT'S COUNT
+9.	TOP 10 BOWLERS WITH MOST NUMBER OF EXTRA RUNS
+10.	 EXTRAS TYPE AND IT'S COUNT
+11.	 TOP 10 BOWLERS WITH MOST NUMBER OF WIDE RUNS
+12.	 TOP 10 BOWLERS WITH MOST NUMBER OF BYE RUNS
+13.	 TOP 10 BOWLERS WITH MOST NUMBER OF LEGBYES
+14.	 TOP 10 BOWLERS WITH MOST NUMBER OF NO BALLS
+15.	 BOWLER AND HIS PENALTY RUNS
